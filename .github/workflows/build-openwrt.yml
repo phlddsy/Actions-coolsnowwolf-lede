@@ -20,8 +20,8 @@ on:
         default: 'true'
 
 env:
-  #REPO_URL: https://github.com/phlddsy/coolsnowwolf-lede
-  REPO_URL: https://github.com/phlddsy/Lienol-openwrt
+  REPO_URL: https://github.com/phlddsy/coolsnowwolf-lede
+  #REPO_URL: https://github.com/phlddsy/Lienol-openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
